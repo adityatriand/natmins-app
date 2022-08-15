@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "498939577985",
+    "project_id": "fooddrinkapp",
+    "storage_bucket": "fooddrinkapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498939577985:android:3d5369de3df98645a16f80",
+        "android_client_info": {
+          "package_name": "com.example.flutter_myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498939577985-0r8fo9art8np21gb7mt0sher776li26l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtom8fq6YVWZYDQ5hyVYaehniihRl7joQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498939577985-0r8fo9art8np21gb7mt0sher776li26l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
